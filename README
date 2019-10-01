@@ -11,4 +11,5 @@ $ cat /etc/os-release
 
 
 Installation
+wget https://github.com/cyysky/Raspbian-Buster-10-Pre-built-OpenCV-4.1.1-TBB-NEON-VFPV3/blob/master/opencv-4.1.1_4.1.1-1_armhf.deb
 sudo dpkg -i opencv-4.1.1_4.1.1-1_armhf.deb
